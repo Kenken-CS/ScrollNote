@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": "7a9ea93f-10cd-4989-9c1d-2a1794757f7b",
+      "title": "My Plan",
+      "content": "- Build a LLM model:\n  + 1 | Python\n  + 1 | calculus, probability and statistics  and linear algebra\n  + 2 | pre LLM\n  + 3 | Tranformer\n  + 4 |  morden LLM\n  + 5 | post trainning\n  + //Neural networks: Zero to Hero (vid) | Build a large language model (book) | the Illustrated Transformer | Attention is all you need\n------------side plan-------------- \n//- Marjoring in big tech university:\n  + learning TSA HSA \n  + learn | learn | learn\n  + learn everyday\n  + not give up\n- become what i want\n  + eating\n  + care  about yourself\n  + live\n  + become heathier \n  + eat well sleep well\n- applying into bigtech company\n  + idk | idk | idk\n  + learn | learn | learn//",
+      "created_at": "2026-11-20T21:01:03.937253",
+      "updated_at": "2026-11-21T01:13:18.715702",
+      "is_active": true,
+      "speed": 1.5,
+      "color": "#FFF8E1",
+      "font_size": 14,
+      "opacity": 0.95
+    }
+  ],
+  "settings": {
+    "autostart": true,
+    "default_speed": 2.0,
+    "font_family": "Segoe UI",
+    "font_size": 14,
+    "opacity": 0.95,
+    "always_on_top": true,
+    "theme": "dark",
+    "hotkey": "Ctrl+Alt+S",
+    "widget_geometry": {
+      "x": 1617,
+      "y": 8,
+      "size": 280
+    },
+    "widget_visible": true,
+    "window_geometry": "840x520+26+26"
+  },
+  "version": "1.0"
+}
